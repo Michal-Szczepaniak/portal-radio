@@ -1,6 +1,6 @@
 # Description
 
-I 3D printed portal radio and people might want recreate it so I'm making code public for everyone else.
+I 3D printed portal radio and people might want recreate it so I'm making code public for everyone else. Model: https://www.thingiverse.com/thing:4927663
 
 # Required parts
 
